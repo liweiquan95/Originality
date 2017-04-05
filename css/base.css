@@ -1,0 +1,75 @@
+*{
+	margin:0;
+	padding:0;
+	margin:0 auto;
+}
+li {
+	list-style-type:none;
+}
+a {
+	text-decoration:none;
+}
+.phone{
+	width:1222px;
+	height:30px;
+	background:#DEDEDE;
+}
+.div1 {
+	width:970px;
+	height:30px;
+	text-align:right;
+	line-height:30px;
+	background-image:url(../img/images/phone.png);
+	background-repeat: no-repeat;
+	background-position: 750px 5px;
+}
+.header {
+	width:970px;
+	height:60px;
+	padding-top:40px;
+	position:relative;
+}
+.header img {
+	padding-right:90px;
+	float:left;
+}
+.header ul {
+		padding-top:8px;
+}
+.header ul li {
+	float:left;
+	padding: 0 15px;
+	border-right:1px solid #000;
+	font-size:14px;
+}
+.header ul li a {
+	color:#b2b2b2;
+	font-weight:bold;
+}
+.header ul li.active a {
+	color:#000;
+}
+.header ul li.last {
+	border-right:none;
+}
+.header .div2 {
+	border:1px solid #000;
+	width:50px;
+	position:absolute;
+	left:290px;
+	top:70px;
+}
+.banner {
+	height:400px;
+	width:1222px;
+}
+
+.footer {
+	width:1222px;
+	height:118px;
+	background:#eaeaea;
+}
+.footer ul li {
+	float:left;
+	text-align:center;
+}

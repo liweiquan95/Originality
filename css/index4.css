@@ -1,0 +1,49 @@
+.design {
+	width:920px;
+	height:210px;
+}
+.case {
+	width:951px;
+	height: 496px;
+	position:relative;
+}
+.case h2 {
+	width:950px;
+	height: 32px;
+	background:#2d3237;
+	color:#f00;
+	text-align:center;
+	font-weight:normal;
+}
+.case h2 span {
+	color:#fff;
+}
+.case-b1,.case-b2{
+	height:8px;
+	border-bottom:1px solid #2d3237;
+}
+.case-b1 {
+	width:433px;
+	float:left;
+}
+.case-b2 {
+	width:433px;
+	float:right;
+}
+.case-s1 {
+	position:absolute;
+	left:444px;
+	top:30px;
+}
+.case-s2 {
+	position:absolute;
+	left:444px;
+	top:473px;
+}
+.introduce {
+	width:951px;
+	height:95px;
+	padding-bottom:85px;
+	padding-top:20px;
+	text-align:center;
+}
