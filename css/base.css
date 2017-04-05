@@ -66,10 +66,16 @@ a {
 
 .footer {
 	width:1222px;
-	height:118px;
+	height:98px;
 	background:#eaeaea;
-}
-.footer ul li {
-	float:left;
 	text-align:center;
+	padding-top:20px;
+	line-height:30px;
+}
+.footer a,p{
+	color:#000;
+}
+.footer span {
+	color:#333;
+	margin:0 3px;
 }
