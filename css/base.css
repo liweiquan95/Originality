@@ -52,13 +52,6 @@ a {
 .header ul li.last {
 	border-right:none;
 }
-.header .div2 {
-	border:1px solid #000;
-	width:50px;
-	position:absolute;
-	left:290px;
-	top:70px;
-}
 .banner {
 	height:400px;
 	width:1222px;

@@ -1,3 +1,10 @@
+.header .div2 {
+	border:1px solid #000;
+	width:50px;
+	position:absolute;
+	left:290px;
+	top:70px;
+}
 .design {
 	width:920px;
 	height:210px;
