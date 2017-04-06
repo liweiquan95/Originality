@@ -6,8 +6,34 @@
 	top:70px;
 }
 .design {
-	width:920px;
-	height:210px;
+	width: 920px;
+	height: 210px;
+	position: relative;
+}
+.design-i1 {
+	position:absolute;
+	left:20px;
+	top:40px;
+}
+.design-i2 {
+	position:absolute;
+	left: 210px;
+	top: 40px;
+}
+.design-i3 {
+	position: absolute;
+	left: 405px;
+	top: 40px;
+}
+.design-i4 {
+	position: absolute;
+	left: 595px;
+	top: 40px;
+}
+.design-i5 {
+	position: absolute;
+	left: 790px;
+	top: 40px;
 }
 .case {
 	width:951px;
@@ -46,6 +72,36 @@
 	position:absolute;
 	left:444px;
 	top:473px;
+}
+.case-i {
+	width: 951px;
+	height: 397px;
+	position:relative;
+}
+.case-i1 {
+	position:absolute;
+	left: 0px;
+	top: 40px;
+}
+.case-i2 {
+	position:absolute;
+	left: 195px;
+	top: 40px;
+}
+.case-i3 {
+	position:absolute;
+	left: 385px;
+	top: 40px;
+}
+.case-i4 {
+	position:absolute;
+	left: 575px;
+	top: 40px;
+}
+.case-i5 {
+	position:absolute;
+	left: 770px;
+	top: 40px;
 }
 .introduce {
 	width:951px;
