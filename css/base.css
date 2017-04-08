@@ -10,16 +10,17 @@ a {
 	text-decoration: none;
 }
 .phone{
-	width:1222px;
+	width: 1142px;
 	height: 30px;
 	background: #DEDEDE;
+	padding-right: 80px;
 }
 .div1 {
 	width:970px;
 	height: 30px;
 	text-align: right;
 	line-height: 30px;
-	background-image: url(../img/images/phone.png);
+	background-image: url(../img/phone.png);
 	background-repeat: no-repeat;
 	background-position: 750px 5px;
 }
@@ -38,7 +39,7 @@ a {
 }
 .header ul li {
 	float:left;
-	padding: 0 15px;
+	padding: 0 25px;
 	border-right: 1px solid #000;
 	font-size: 14px;
 }
@@ -59,13 +60,18 @@ a {
 
 .footer {
 	width:1222px;
-	height:88px;
+	height:87px;
 	background:#eaeaea;
 	text-align:center;
 	padding-top:30px;
 	line-height:20px;
+	border-top: 1px solid #b4b4b4;
 }
-.footer a,p{
+.footer>a {
+	color: #000;
+	font-size: 12px;
+}
+.footer>p {
 	color: #000;
 	font-size: 12px;
 }

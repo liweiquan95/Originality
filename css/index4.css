@@ -2,7 +2,7 @@
 	border:1px solid #000;
 	width:50px;
 	position:absolute;
-	left:290px;
+	left:301px;
 	top:70px;
 }
 .design {
@@ -71,7 +71,7 @@
 .case-s2 {
 	position:absolute;
 	left:444px;
-	top:473px;
+	top:460px;
 }
 .case-i {
 	width: 951px;
@@ -110,6 +110,8 @@
 	padding-top:20px;
 	text-align:center;
 	color:#666;
+	font-size: 14px;
+	line-height: 30px;
 }
 .service {
 	width:951px;
