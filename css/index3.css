@@ -1,6 +1,4 @@
-img {
-	border:0;
-}
+
 .header .div2 {
 	border:1px solid #000;
 	width:60px;
@@ -89,6 +87,7 @@ img {
 	width:580px;
 	height: 55px;
 	float:left;
+	position:relative;
 }
 .share-r>a {
 	font-size:12px;
@@ -98,41 +97,110 @@ img {
 	width:21px;
 	height:22px;
 	margin-left:18px;
+	position:absolute;
 }	
+.s {
+	position:absolute;
+}
 .share-i1 {
 	background:url(../img/share.png) 0 300px;
-	margin:0;
+	left:-20px;
+	top:0;
 }
-.share-i2 {
+.s1 {
+	left:20px;
+	top:3px;
+}
+.share-i2 { 
 	background:url(../img/share.png) 0 274px;
+	left:60px;
+	top:0;
+}
+.s2 {
+	left:100px;
+	top:3px;
 }
 .share-i3 {
 	background:url(../img/share.png) 0 249px;
+	left:140px;
+	top:0;
+}
+.s3 {
+	left:180px;
+	top:3px;
 }
 .share-i4 {
 	background:url(../img/share.png) 0 224px;
+	left:220px;
+	top:0;
+}
+.s4 {
+	left:260px;
+	top:3px;
 }
 .share-i5 {
 	background:url(../img/share.png) 0 198px;
+	left:300px;
+	top:0;
+}
+.s5 {
+	left:340px;
+	top:3px;
 }
 .share-i6 {
 	background:url(../img/share.png) 0 169px;
+	left:380px;
+	top:0;
+}
+.s6 {
+	left:420px;
+	top:3px;
 }
 .share-i7 {
 	background:url(../img/share.png) 0 141px;
+	left:460px;
+	top:0;
+}
+.s7 {
+	left:500px;
+	top:3px;
 }
 .share-i8 {
 	background:url(../img/share.png) 0 111px;
-	margin:0;
+	left:-20px;
+	top:25px;
+	
+}
+.s8 {
+	left:20px;
+	top:28px;
 }
 .share-i9 {
 	background:url(../img/share.png) 0 82px;
+	left:60px;
+	top:25px;
+}
+.s9 {
+	left:100px;
+	top:28px;
 }
 .share-i10 {
 	background:url(../img/share.png) 0 55px;
+	left:140px;
+	top:25px;
+}
+.s10 {
+	left:180px;
+	top:28px;
 }
 .share-i11 {
 	background:url(../img/share.png) 0 30px;
+	left:220px;
+	top:25px;
+}
+.s11 {
+	left:260px;
+	top:28px;
 }
 /* 内容右边的下部 */
 .main-r-b {

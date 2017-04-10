@@ -5,6 +5,11 @@
 	left:301px;
 	top:70px;
 }
+.banner-n1 {
+	position:absolute;
+	right:0;
+	top:35%;
+}
 .design {
 	width: 920px;
 	height: 210px;
@@ -66,12 +71,12 @@
 .case-s1 {
 	position:absolute;
 	left:444px;
-	top:30px;
+	top:32px;
 }
 .case-s2 {
 	position:absolute;
 	left:444px;
-	top:460px;
+	top:462px;
 }
 .case-i {
 	width: 951px;
@@ -144,5 +149,5 @@
 .service-s2 {
 	position:absolute;
 	left:444px;
-	top:30px;
+	top:32px;
 }

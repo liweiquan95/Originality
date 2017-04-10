@@ -1,6 +1,8 @@
 *{
 	margin: 0;
 	padding: 0;
+}
+.w {
 	margin: 0 auto;
 }
 li {
@@ -10,10 +12,9 @@ a {
 	text-decoration: none;
 }
 .phone{
-	width: 1142px;
+	width: 100%;
 	height: 30px;
 	background: #DEDEDE;
-	padding-right: 80px;
 }
 .div1 {
 	width:970px;
@@ -56,10 +57,16 @@ a {
 .banner {
 	height:400px;
 	width:1222px;
+	background: url(../img/banner.gif);
+	position:relative;
 }
-
+.banner-n2 {
+	position:absolute;
+	right:426px;
+	top:158px;
+}
 .footer {
-	width:1222px;
+	width: 100%;
 	height:87px;
 	background:#eaeaea;
 	text-align:center;
