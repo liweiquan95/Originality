@@ -1,0 +1,175 @@
+img {
+	border:0;
+}
+.header .div2 {
+	border:1px solid #000;
+	width:60px;
+	position:absolute;
+	left:818px;
+	top:70px;
+}
+/* 内容部分 */
+.main {
+	height: 725px;
+	width: 884px;
+	padding-top: 30px;
+}	
+/* 内容左边 */
+.main-l {
+	width: 211px;
+	height: 725px;
+	float:left;
+}
+.service {
+	width: 84px;
+	height: 22px;
+	border-bottom: 2px solid #ff680b;
+	float:left;
+	font-size: 14px;
+	color: #282828;
+}
+.service-a {
+	width: 211px;
+	height: 22px;
+	border-bottom: 2px solid #9c9c9c;
+}
+.service-b {
+	width: 200px;
+	padding:9px 0 0 11px;
+	height: 55px;
+	line-height:20px;
+	font-size: 12px;
+	margin-bottom:10px;
+}	
+.service-b>a{
+	color: #333;
+}
+.service-c {
+	border-top: 1px dashed #999;
+	width:200px;
+	height:88px;
+	padding-top:10px;
+	line-height:27px;
+}
+.service-c>img {
+	float:left;
+}
+.service-c>p {
+	font-size:12px;
+}
+/* 内容右边 */
+.main-r {
+	height: 725px;
+	width: 640px;
+	float:left;
+	padding-left:33px;
+	color: #666;
+	position:relative;
+}
+/* 内容右边的顶部 */
+.main-r-t {
+	width:640px;
+	height:57px;
+	line-height:25px;
+	text-align:center;
+}
+.main-r-t>span{
+	font-size:8px;
+}
+.share {
+	width:640px;
+	height: 55px;
+}
+.share-l {
+	width:60px;
+	height: 55px;
+	float:left;
+}
+.share-r {
+	width:580px;
+	height: 55px;
+	float:left;
+}
+.share-r>a {
+	font-size:12px;
+	color:#666;
+}
+.share-i {
+	width:21px;
+	height:22px;
+	margin-left:18px;
+}	
+.share-i1 {
+	background:url(../img/share.png) 0 300px;
+	margin:0;
+}
+.share-i2 {
+	background:url(../img/share.png) 0 274px;
+}
+.share-i3 {
+	background:url(../img/share.png) 0 249px;
+}
+.share-i4 {
+	background:url(../img/share.png) 0 224px;
+}
+.share-i5 {
+	background:url(../img/share.png) 0 198px;
+}
+.share-i6 {
+	background:url(../img/share.png) 0 169px;
+}
+.share-i7 {
+	background:url(../img/share.png) 0 141px;
+}
+.share-i8 {
+	background:url(../img/share.png) 0 111px;
+	margin:0;
+}
+.share-i9 {
+	background:url(../img/share.png) 0 82px;
+}
+.share-i10 {
+	background:url(../img/share.png) 0 55px;
+}
+.share-i11 {
+	background:url(../img/share.png) 0 30px;
+}
+/* 内容右边的下部 */
+.main-r-b {
+	width:652px;
+	height:580px;
+	padding-right:59px;
+	border-top:1px dashed #999;
+	font-size:12px;
+	line-height:20px;
+	
+}
+.main-r-m-p {
+	margin-bottom:42px;
+}
+.p1{
+	margin-top:8px;
+}
+.d1 {
+	width: 48px;
+	height: 25px;
+	position:absolute;
+	bottom:18px;
+	left:260px;
+	border: 1px solid #dbeaef;
+	line-height:25px;
+	text-align:center;
+}
+.d2 {
+	width: 48px;
+	height: 25px;
+	position:absolute;
+	bottom:18px;
+	left:360px;
+	border: 1px solid #dbeaef;
+	line-height:25px;
+	text-align:center;
+}
+.d3 {
+	color:#666;
+}

@@ -1,0 +1,72 @@
+.header .div2 {
+	border:1px solid #000;
+	width:64px;
+	position:absolute;
+	left:495px;
+	top:70px;
+}
+.case {
+	width: 960px;
+	height: 1635px;
+	padding-top: 38px;
+}
+.case-a {
+	width: 84px;
+	height: 22px;
+	border-bottom: 2px solid #000;
+	float:left;
+	font-size: 14px;
+	color: #282828;
+}
+.case-b {
+	width: 960px;
+	height: 22px;
+	border-bottom: 2px solid #adadad;
+}
+.case-i1 {
+	width: 174px;
+	height: 130px;
+	text-align: center;
+	float: left;
+	padding: 12px 9px;
+}
+.case-i1 a {
+	color: #666;
+	font-size: 12px;
+}
+
+.case-d {
+	width: 960px;
+	height: 66px;
+	float:left;
+	line-height: 66px;
+}
+.case-d-m {
+	width: 177px;
+	height: 45px;
+	position: relative;
+}
+.case-d-m>a,span {
+	font-size: 12px;
+	color: #666;
+}
+.case-d-m .d1 {
+	position:absolute;
+	left: 80px;
+	top: 20px;
+	border: 1px solid #dbeaef;
+	width: 19px;
+	height: 25px;
+	line-height:25px;
+	text-align:center;
+}
+.case-d-m .d2 {
+	width: 48px;
+	height: 25px;
+	position:absolute;
+	left:120px;
+	top: 20px;
+	border: 1px solid #dbeaef;
+	line-height:25px;
+	text-align:center;
+}
